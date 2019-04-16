@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyRetailConsoleUI", "HappyRetailConsoleUI\HappyRetailConsoleUI.csproj", "{5082E7A1-368D-4F34-8A18-7149C7133442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyRetailEntity", "HappyRetailEntity\HappyRetailEntity.csproj", "{D56CAA43-DE8A-4F89-A04A-62F025D97861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyRetailBusinessAccessLayer", "HappyRetailBusinessAccessLayer\HappyRetailBusinessAccessLayer.csproj", "{AFE2AB0B-AF31-4E56-99DA-AD255229343E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyRetailDataAccessLayer", "HappyRetailDataAccessLayer\HappyRetailDataAccessLayer.csproj", "{4C831AF5-7AB0-4C9F-9CEC-64765819D335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardValidationWebService", "CardValidationWebService\CardValidationWebService.csproj", "{BA3E0302-A686-4A60-92F5-208B3D049E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5082E7A1-368D-4F34-8A18-7149C7133442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5082E7A1-368D-4F34-8A18-7149C7133442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5082E7A1-368D-4F34-8A18-7149C7133442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5082E7A1-368D-4F34-8A18-7149C7133442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56CAA43-DE8A-4F89-A04A-62F025D97861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56CAA43-DE8A-4F89-A04A-62F025D97861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56CAA43-DE8A-4F89-A04A-62F025D97861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56CAA43-DE8A-4F89-A04A-62F025D97861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE2AB0B-AF31-4E56-99DA-AD255229343E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE2AB0B-AF31-4E56-99DA-AD255229343E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE2AB0B-AF31-4E56-99DA-AD255229343E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE2AB0B-AF31-4E56-99DA-AD255229343E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C831AF5-7AB0-4C9F-9CEC-64765819D335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C831AF5-7AB0-4C9F-9CEC-64765819D335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C831AF5-7AB0-4C9F-9CEC-64765819D335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C831AF5-7AB0-4C9F-9CEC-64765819D335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3E0302-A686-4A60-92F5-208B3D049E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3E0302-A686-4A60-92F5-208B3D049E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3E0302-A686-4A60-92F5-208B3D049E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3E0302-A686-4A60-92F5-208B3D049E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
